@@ -74488,10 +74488,10 @@ if(i==null){a3=A.ak("QR Generation Failed")
 throw A.c(a3)}h=J.fj(B.bD.ga0(i))
 g=J.aoX(k).a
 f=J.aoX(k).b
-e=g*0.308
-d=g*0.308
-c=g*0.62
-b=f*0.575
+e=g*0.306
+d=g*0.306
+c=g*0.622
+b=f*0.573
 a3=k
 a5=a3.a
 a5===$&&A.a()
